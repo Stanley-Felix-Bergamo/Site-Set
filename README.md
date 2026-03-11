@@ -1,6 +1,6 @@
 ##  Saite.Set
 <p>Projeto front-end em React e Next.js desenvolvida durante as Aulas da rocketseat</p>
- <img src=''>
+ <img src='' alt="Imagem não está disponível">
   
 ##  💻 Tecnologias :
 <div style=" display: flex;">
