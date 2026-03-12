@@ -11,19 +11,15 @@ export default function ActiveLink({
   href,
   ...rest
 }: ActiveLinkProps) {
-    
   const router = useRouter();
 
-  const IsCurrentPath =
-    router.asPath == href ||
-    router.asPath == rest.as ||
-    router.asPath.startsWith(String(rest.as));
+  const IsCurrentPath = router.asPath == href || router.asPath == rest.as;
 
   return (
     <Link
       className={cn(
-        "text-sm font-medium transition-colors hover:text-blue-500 ",
-        IsCurrentPath ? "text-blue-500" : "text-muted-foreground",
+        "text-action-sm  transition-colors hover:text-blue-200 ",
+        IsCurrentPath ? "text-blue-200" : "text-gray-100",
       )}
       href={"/"}
     >
