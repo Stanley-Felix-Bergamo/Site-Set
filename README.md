@@ -11,6 +11,6 @@
  </ul>
   
 ##  🎨 Design :
-Acesse<a href="https://www.figma.com/design/yOz62qd65Vyaw03BmllBVd/Landing-Page-e-Blog--Community-?node-id=0-1&p=f&t=pbm6dwpuMbZjZidW-0" target="_blank"> aqui</a>
+Acesse<a href="https://www.figma.com/design/yOz62qd65Vyaw03BmllBVd/Landing-Page-e-Blog--Community-?node-id=3-376&p=f&t=f5qBZ2uLLWxFiDSA-0" target="_blank"> aqui</a>
 </div> 
 
