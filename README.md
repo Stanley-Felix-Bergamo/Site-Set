@@ -1,7 +1,10 @@
 ##  Site.Set
-<p>Projeto front-end em React e Next.js desenvolvida durante as Aulas da rocketseat</p>
+
  <img src='' alt="Imagem não está disponível">
-  
+
+ ##  📜 Projeto :
+ <p>Projeto front-end em React e Next.js desenvolvida durante as Aulas da rocketseat</p>
+ 
 ##  💻 Tecnologias :
 <div style=" display: flex;">
  <ul>
