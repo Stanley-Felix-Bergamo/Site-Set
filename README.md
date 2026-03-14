@@ -1,4 +1,4 @@
-##  Saite.Set
+##  Site.Set
 <p>Projeto front-end em React e Next.js desenvolvida durante as Aulas da rocketseat</p>
  <img src='' alt="Imagem não está disponível">
   
@@ -10,7 +10,7 @@
    <li>Tailwind CSS</li>
  </ul>
   
-## 📜 Figma :
+##  🎨 Design :
 Acesse<a href="https://www.figma.com/design/yOz62qd65Vyaw03BmllBVd/Landing-Page-e-Blog--Community-?node-id=0-1&p=f&t=pbm6dwpuMbZjZidW-0" target="_blank"> aqui</a>
 </div> 
 
