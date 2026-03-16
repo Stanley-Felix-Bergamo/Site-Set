@@ -6,10 +6,9 @@ import Link from "next/link";
 export default function HeroSection() {
   return (
     <section className="container relative flex items-center justify-center mt-16">
-
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
-        <div className="flex flex-col items-center justify-center gap-4 md:items-start lg:items-start">
-          <h1 className="text-gray-100 text-heading-hg font-sans">
+        <div className="flex flex-col items-center justify-center gap-4 md:items-start mt-16 lg:items-start">
+          <h1 className="text-gray-100 text-heading-hg  text-center md:text-left lg:text-left">
             Venda seus produtos como afiliado em um único lugar
           </h1>
 
@@ -30,7 +29,7 @@ export default function HeroSection() {
               </div>
             </div>
 
-            <div className="text-white flex flex-col gap-2 mt-5 items-center md:items-start ls:items-start">
+            <div className="text-white flex flex-col gap-2 md:mt-5 items-center md:items-start ls:items-start">
               <Button className="rounded-full w-fit" asChild>
                 <Link href="/criar-loja">
                   Criar loja grátis <ArrowRight />
@@ -43,6 +42,7 @@ export default function HeroSection() {
             </div>
           </div>
         </div>
+
         <div className="relative h-[20rem] hidden md:h-full order-first md:order-last items-center justify-center md:flex lg:flex">
           <Image
             src="/hero-section.svg"
@@ -52,9 +52,7 @@ export default function HeroSection() {
             className="h-full w-auto object-contain"
           />
         </div>
-
       </div>
-      
     </section>
   );
 }
