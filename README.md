@@ -1,7 +1,10 @@
-##  Saite.Set
-<p>Projeto front-end em React e Next.js desenvolvida durante as Aulas da rocketseat</p>
+##  Site.Set
+
  <img src='' alt="Imagem não está disponível">
-  
+
+ ##  📜 Projeto :
+ <p>Projeto front-end em React e Next.js desenvolvida durante as Aulas da rocketseat</p>
+ 
 ##  💻 Tecnologias :
 <div style=" display: flex;">
  <ul>
@@ -10,7 +13,7 @@
    <li>Tailwind CSS</li>
  </ul>
   
-## 📜 Figma :
-Acesse<a href="https://www.figma.com/design/yOz62qd65Vyaw03BmllBVd/Landing-Page-e-Blog--Community-?node-id=0-1&p=f&t=pbm6dwpuMbZjZidW-0" target="_blank"> aqui</a>
+##  🎨 Design :
+Acesse<a href="https://www.figma.com/design/yOz62qd65Vyaw03BmllBVd/Landing-Page-e-Blog--Community-?node-id=3-376&p=f&t=f5qBZ2uLLWxFiDSA-0" target="_blank"> aqui</a>
 </div> 
 
