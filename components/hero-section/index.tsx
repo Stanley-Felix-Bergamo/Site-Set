@@ -30,13 +30,13 @@ export default function HeroSection() {
             </div>
 
             <div className="text-white flex flex-col gap-2 md:mt-5 items-center md:items-start ls:items-start">
-              <Button className="rounded-full w-fit" asChild>
+              <Button className="rounded-full w-fit h-[44px]" asChild>
                 <Link href="/criar-loja">
                   Criar loja grátis <ArrowRight />
                 </Link>
               </Button>
 
-              <p className="text-gray-300 text-body-xs">
+              <p className="text-gray-300 text-body-xs mt-4">
                 Não precisa de cartão de crédito
               </p>
             </div>
