@@ -22,7 +22,7 @@ export default function FeactureSection() {
                         <span className="text-body-sm text-blue-200 bg-blue-400 px-2 py-1 w-fit rounded-sm uppercase">personalizável</span>
                         <h2 className="text-gray-100 text-heading-lg">Tenha uma loja online personalizada com a cara da sua marca</h2>
 
-                        <Button asChild className="w-fit rounded-full hidden mt-4 md:mt-auto md:flex">
+                        <Button asChild className="w-fit rounded-full hidden mt-4 md:mt-auto md:flex h-10">
                             <Link href="/criar-loja">
                                 Criar loja grátis
                                 <ArrowRight />
@@ -34,7 +34,7 @@ export default function FeactureSection() {
                         <div className="w-full max-w-md overflow-hidden">
                             <Image className="object-cover w-full" src="/feacture-section.svg" alt="Feactures" width={440} height={330} />
                         </div>
-                        <Button asChild className="w-fit w-full gap-2 rounded-full mt-4 md:mt-auto md:hidden">
+                        <Button asChild className="w-full h-10 gap-2 rounded-full mt-4 md:mt-auto md:hidden">
                             <Link href="/criar-loja">
                                 Criar loja grátis
                                 <ArrowRight />
