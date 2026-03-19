@@ -1,3 +1,4 @@
+import CustumerStorySection from "@/components/custumer-story-section";
 import FeactureSection from "@/components/feacture-section";
 import HeroSection from "@/components/hero-section";
 import SupportSection from "@/components/suport-section";
@@ -9,6 +10,7 @@ export default function HomePage() {
         <HeroSection />
         <FeactureSection />
         <SupportSection />
+        <CustumerStorySection />
       </article>
     </>
   );
