@@ -1,6 +1,6 @@
 import Link from "next/link";
-import { Button } from "../ui/button";
-import ActiveLink from "../active-link";
+import { Button } from "../../ui/button";
+import ActiveLink from "../../active-link";
 import Image from "next/image";
 
 export default function Header() {
