@@ -6,7 +6,7 @@ import SupportSection from "./sections/suport-section";
 
 export function LandingPage() {
   return (
-    <article className="flex flex-col items-center">
+    <article className="flex flex-col items-center gap-10 md:gap-20">
       <HeroSection />
       <FeactureSection />
       <SupportSection />
