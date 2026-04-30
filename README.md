@@ -2,8 +2,10 @@
 
  <img src='https://raw.githubusercontent.com/Stanley-Felix-Bergamo/Site-Set/refs/heads/master/public/captura.png' alt="Imagem não está disponível">
 
+ 
  ##  📜 Projeto :
  <p>Projeto front-end em React e Next.js desenvolvida durante as Aulas da rocketseat</p>
+ 
  
 ##  💻 Tecnologias :
 <div style=" display: flex;">
