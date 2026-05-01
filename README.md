@@ -1,7 +1,7 @@
 ##  Site.Set
 
  <img src='https://raw.githubusercontent.com/Stanley-Felix-Bergamo/Site-Set/refs/heads/master/public/captura.png' alt="Imagem não está disponível">
-
+ <img src="https://github.com/Stanley-Felix-Bergamo/Site-Set/blob/master/public/01.05.2026_14.16.50_REC.gif">
  
  ##  📜 Projeto :
  <p>Projeto front-end em React e Next.js desenvolvida durante as Aulas da rocketseat</p>
