@@ -30,7 +30,7 @@ git clone https://github.com/Stanley-Felix-Bergamo/Site-Set.git
 npm install
 ```
 
-<p>Terceiro passo, use este comando no terminal</p>
+<p>Terceiro passo, use o comando npm run dev, para iniciar o ambiente de desenvolvimento local do projeto</p>
 
 ```
 npm run dev
